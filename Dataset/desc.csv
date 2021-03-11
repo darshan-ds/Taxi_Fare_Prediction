@@ -1,0 +1,9 @@
+Column,Description
+unique_id,A unique identifier or key for each record in the dataset
+date_time_of_pickup,The time when the ride started
+longitude_of_pickup,Longitude of the taxi ride pickup point
+latitude_of_pickup,Latitude of the taxi ride pickup point
+longitude__of_dropoff,Longitude of the taxi ride dropoff point
+latitude_of_dropoff,Latitude of the taxi ride dropoff point
+no_of_passenger,count of the passengers during the ride
+amount,(target variable)dollar amount of the cost of the taxi ride
